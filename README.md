@@ -8,5 +8,4 @@ Dataset for “Abysssense” : The Impact of Serious Games on Awareness of Thala
 
 ## Research Dataset: 
 Data in .xlsx format:
-- 
-- 
+- https://binusianorg-my.sharepoint.com/personal/ryochen_leonardo_binus_ac_id/_layouts/15/guestaccess.aspx?share=ETMBhGYB71JInyIh-GLIHwMB-fMz71jOaKPYWp8DDYTAdg&e=leQnOm
